@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Contact Us</h1>
+    </header>
+    
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="services.html">Services</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <section>
+        <p>📍 Address: Kadiri, 515591</p>
+        <p>📞 Phone: +91 XXXXX XXXXX</p>
+        <p>💬 <a href="https://wa.me/91XXXXXXXXXX">Chat on WhatsApp</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Joshitha Online Service Centre</p>
+    </footer>
+</body>
+</html>
